@@ -21,5 +21,11 @@ node_modules
 *.sln
 *.sw?
 
+
+myapi.db
+*.pyc
+__pycache__
+migrations
+alembic.ini
 .env
 .env.production
